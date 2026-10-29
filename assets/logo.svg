@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SpoolSense logo">
+  <rect width="64" height="64" rx="14" fill="#14171c"/>
+  <circle cx="32" cy="32" r="22" fill="#2e9e5b"/>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="#7fd6a0" stroke-width="2"/>
+  <circle cx="32" cy="32" r="14.5" fill="#14171c"/>
+  <circle cx="32" cy="32" r="14.5" fill="none" stroke="#ee7d22" stroke-width="2.4" stroke-dasharray="64 28" stroke-linecap="round" transform="rotate(-100 32 32)"/>
+  <circle cx="32" cy="32" r="5" fill="#2e9e5b"/>
+  <circle cx="32" cy="32" r="2" fill="#14171c"/>
+  <g stroke="#14171c" stroke-width="1.4" opacity=".55"><line x1="32" y1="10" x2="32" y2="17.5"/><line x1="10" y1="32" x2="17.5" y2="32"/><line x1="54" y1="32" x2="46.5" y2="32"/></g>
+</svg>

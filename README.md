@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="SpoolSense" width="560"></p>
+
 # SpoolSense
 
 A small round touchscreen that sits on the side of a Snapmaker U1 and shows how much filament is left on a spool.
